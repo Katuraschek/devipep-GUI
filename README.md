@@ -45,3 +45,8 @@ GUI-pipdev is an easy-to-use graphical interface for the pipdev tool developed b
     
     - If you choose to plot the topmost x plots, results will be saved in the provided results path.
     - Selecting a specific plot will open it in a new window.
+
+### Contact
+
+For questions and suggestions, please contact Katharina.Juraschek@childrens.harvard.edu.
+Please use the "Issues" section for bug reports and feature requests.
