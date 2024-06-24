@@ -25,17 +25,23 @@ GUI-pipdev is an easy-to-use graphical interface for the pipdev tool developed b
    - Click "OK" and close the menu.
 
 ## How to Run DEVIPEP GUI
-- **Open DEVIPEP**: Double-click on the shortcut you created.
+- **Open DEVIPEP**: Double-click on the shortcut you created. A window like this will open:
+  
   ![Devipep Icon](DEVIPEP_GUI_1.png)
 
 - **Interface Overview**:
-  - Enter all required information.
+  - Enter all required information. Like on this picture:
+
+    ![Devipep Icon](DEVIPEP_GUI_2.png)
+    
   - Select an analysis option.
   - Click "Run analysis."
-![Devipep Icon](DEVIPEP_GUI_2.png)
+
 - **Save Analysis Results**:
   - The CSV file with analysis results will be saved in the provided path.
-  - A new window will open for generating plots:
+  - A new window will open for generating plots, like this:
+    
     ![Devipep Icon](DEVIPEP_GUI_3.png)
+    
     - If you choose to plot the topmost x plots, results will be saved in the provided results path.
     - Selecting a specific plot will open it in a new window.
