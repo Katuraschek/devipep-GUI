@@ -1,4 +1,4 @@
-# GUI-pipdev
+# pipdev-GUI
 
 ## Description
 GUI-pipdev is an easy-to-use graphical interface for the pipdev tool developed by Sonja-Stockhaus. The pipdev tool itself can be found [here](https://github.com/Sonja-Stockhaus/devipep.git). Follow the installation instructions for pipdev before using the GUI.
