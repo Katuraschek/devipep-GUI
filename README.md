@@ -8,7 +8,7 @@ GUI-pipdev is an easy-to-use graphical interface for the pipdev tool developed b
 ### Shortcut Creation
 1. **Create Shortcut**: Right-click on `devipep-GUI.py` and select "Create shortcut."
 2. **Link Icon to Shortcut (Optional)**:
-   - Download `Devipep-Icon.ico`.
+   - Download `scatter-plot.ico`.
    - Right-click on the shortcut, go to Properties.
    - Select the Shortcut tab.
    - Click on "Change icon," then "Select" and choose the downloaded icon.
